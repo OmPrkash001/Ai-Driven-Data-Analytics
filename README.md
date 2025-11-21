@@ -1,14 +1,14 @@
 # AI-Integrated Data Analyst Project
 
 ## Project Description
-This project is a complete, production-ready end-to-end AI-Integrated Data Analyst system. It features automated data ingestion, cleaning, feature engineering, and machine learning model training with automatic detection of regression or classification tasks. The system includes a Streamlit dashboard for interactive data analysis, visualization, and AI-powered insights using OpenAI's GPT models.
+This project is a complete, production-ready end-to-end AI-Integrated Data Analyst system. It features automated data ingestion, cleaning, feature engineering, and machine learning model training with automatic detection of regression or classification tasks. The system includes a Streamlit dashboard for interactive data analysis, visualization, and AI-powered insights using Google's Gemini models.
 
 ## Features
 - **Automated ETL**: Ingestion, cleaning, missing value handling, and outlier capping.
 - **Feature Engineering**: Date-time decomposition and automated feature preparation.
 - **Auto-ML**: Automatically detects regression or classification problems and trains XGBoost or LightGBM models respectively.
 - **Interactive Dashboard**: Streamlit app for data upload, EDA, and model training.
-- **AI Integration**: "Ask your dataset" feature using OpenAI to provide natural language insights.
+- **AI Integration**: "Ask your dataset" feature using Google Gemini to provide natural language insights.
 - **Dockerized**: Ready for deployment with Docker.
 - **CI/CD**: GitHub Actions workflow for continuous integration.
 
